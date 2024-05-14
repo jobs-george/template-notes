@@ -1,0 +1,21 @@
+# tex
+*.aux
+*.dvi
+*.log
+*.out
+*.aux
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+*.bbl
+*.blg
+*.ilg
+*.ind
+
+*.toc
+
+# tex optional
+*.pdf
+*.eps
+!main.pdf
